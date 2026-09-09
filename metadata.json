@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Grievance & Auto-Routing Portal",
+  "description": "National multi-department civic grievance and government order auto-routing platform with live keyword routing, SLA monitoring, and grievance map.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
